@@ -1,5 +1,8 @@
-QR Code Generator Project*  
-In this mini project, I created a custom QR code generator using Python! The goal was to generate a QR code that directs people to my LinkedIn profile. Here’s how I built it:
+QR Code Generator Project
+
+In this mini project, I created a custom QR code generator using Python! The goal was to generate a QR code that directs people to my LinkedIn profile. 
+
+Here’s how I built it:
 
 1. *Libraries Used: I used the *qrcode* library to generate the QR code and the *image** library to customize the image format.
 2. *Customization*: The QR code was set with a version of 15 (which determines its size), a box size of 10 (the size of each block in the QR code), and a border thickness of 5.
